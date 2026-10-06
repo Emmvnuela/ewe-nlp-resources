@@ -61,12 +61,12 @@ Les contributions sont les bienvenues, surtout celles de **locuteurs natifs** : 
 
 ### Citer ce projet
 ```
-[Ton Prénom Nom]. (2026). ewe-nlp-resources: open Ewe–French–English parallel sentences.
-GitHub. https://github.com/[ton-pseudo]/ewe-nlp-resources
+Afi Emmanuela Carlos AGBEKPONOU. (2026). ewe-nlp-resources: open Ewe–French–English parallel sentences.
+GitHub. https://github.com/Emmvnuela/ewe-nlp-resources
 ```
 
 ### À propos de moi
-Je suis [Prénom], locutrice native de l'éwé, passionnée par la data science pour les contextes africains. Je débute et j'apprends en public. Retrouve-moi sur [GitHub](https://github.com/[ton-pseudo]) · [LinkedIn](#).
+Je suis Afi, locutrice native de l'éwé, passionnée par la data science pour les contextes africains. Je débute et j'apprends en public. Retrouve-moi sur [GitHub](https://github.com/Emmvnuela) · [Linkedin](www.linkedin.com/in/emmanuela-agbekponou-afi).
 
 ---
 
